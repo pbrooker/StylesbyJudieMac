@@ -1,0 +1,14 @@
+{
+    "name": "vendor/stylesby-judie-mac",
+    "description": "Description of project StylesbyJudieMac.",
+    "authors": [
+        {
+            "name": "Paul Brooker",
+            "email": "pdbrooker@hotmail.com"
+        }
+    ],
+    "require": {
+        "slim/slim": "2.6.2",
+        "phpmailer/phpmailer": "v5.2.14"
+    }
+}
